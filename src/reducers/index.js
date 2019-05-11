@@ -1,3 +1,5 @@
+//reducer
+
 import { combineReducers } from 'redux';
 import quotes from './quotes';
 
